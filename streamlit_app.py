@@ -2,7 +2,7 @@ import streamlit as st
 
 st.title("👋🏻 연수 실습 페이지")
 st.subheader("저의 페이지에 오신 것을 환영합니다!")
-st.info("안녕하세요. 박나연입니다.")
+st.info("안녕하세요. !!!!!!박나연입니다.")
 st.write("https://www.naver.com")
 
 st.link_button("저의 깃허브 페이지 바로가기", "https://github.com/nyp0821")

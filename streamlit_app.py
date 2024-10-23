@@ -1,5 +1,7 @@
 import streamlit as st
 
+st.set_page_config(page_title="연수용페이지", page_icon="😍")
+
 st.title("👋🏻 연수 실습 페이지")
 st.subheader("저의 페이지에 오신 것을 환영합니다!")
 st.info("안녕하세요. ^^ 박나연입니다.")
